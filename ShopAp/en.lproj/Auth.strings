@@ -1,0 +1,45 @@
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "2Je-wH-CIQ"; */
+"2Je-wH-CIQ.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "AdJ-Ee-4fb"; */
+"AdJ-Ee-4fb.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Ee5-jx-M35"; */
+"Ee5-jx-M35.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "+213"; ObjectID = "IkY-hu-IRy"; */
+"IkY-hu-IRy.placeholder" = "+213";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "Kru-H5-0Wh"; */
+"Kru-H5-0Wh.normalTitle" = "Reset Password";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "RwB-OG-dgk"; */
+"RwB-OG-dgk.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "∙∙∙∙∙∙∙∙∙∙∙∙"; ObjectID = "WA8-9z-Hkm"; */
+"WA8-9z-Hkm.placeholder" = "∙∙∙∙∙∙∙∙∙∙∙∙";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Yi4-x1-Vsz"; */
+"Yi4-x1-Vsz.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "h1f-Lk-BPK"; */
+"h1f-Lk-BPK.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "∙∙∙∙∙∙∙∙∙∙∙∙"; ObjectID = "hho-EK-0Ag"; */
+"hho-EK-0Ag.placeholder" = "∙∙∙∙∙∙∙∙∙∙∙∙";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "pTN-qW-RuE"; */
+"pTN-qW-RuE.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Enter your Email"; ObjectID = "qei-xI-EVC"; */
+"qei-xI-EVC.text" = "Enter your Email";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "rcz-qe-SuK"; */
+"rcz-qe-SuK.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "szK-br-5Ib"; */
+"szK-br-5Ib.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "zPL-pI-zvR"; */
+"zPL-pI-zvR.placeholder" = "Email";

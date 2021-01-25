@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  ShopAp
+
+  Created by mr Yacine on 4/11/19.
+  Copyright © 2019 mr Yacine. All rights reserved.
+*/
+"Home"="الرئيسية";
+"En_Lang"="الإنجليزية";
+"Ar_Lang"="العربية";
+"Change_Lang"="do you want to change the language?";
+"Restart_app"="close the application and restart again";
+"Yes"="Yes";
+"No"="No";
+"Call_user"="إتصل بصاحب المنتوج";
+"Rate_Product"="تقييم المنتج";
+"Shoose_section"="إختر قسم";
+"Add_Image_product"="إضافة صور";
+"Upload_Product"="إرسال المنتوج";
+"Product_description"="وصف المنتوج";
+"Price"="السعر";
+"Name_Product"="إسم المنتوج";
+"Add_Product"="إضافة منتوج";
+"Section"="الأقسام";
+"Admin"="المدراء";
+"Language"="اللغة";
+"Admin_id"="رقم ID";
+"Submit"="إرسال";
+"Subject"="الموضوع";
+"Section_Name"="إسم القسم";
+"Add_New_Section"="إضافة قسم";
+"Search"="البحث";
+"Cancel"="إلغاء";
+"Sign_Out"="تسجيل الخروج";
+"Profile"="بروفايل";
+"More"="إقرأ المزيد من المصدللر";
+"Contact"="إتصل بنا";
+"stop"="إعلان مخالف";
+"Rate"="تقييم التطبيق";
+"All"="الكل";
+"Car"="سيارات";
+"Technic"="تقنيات";
+"Job"="طلبات عمل";
+"All_service"="خدمات متعددة";
+"real_estates"="عقارات";
+"SinIn_First"="سجل الدخول أولا";
+"Enter_all_field"="يرجى ملاْ جميع الخانات";
+"No_Submit_Product"="لم يتم إرسال المنتج";
+"Add_Fav_Product"="تم إضافة المنتج لمفضلاتك";
+"My_Adver"="إعلاناتي";
+"My_Favorit"="مفضلاتي";
+"Loading"="جاري التحميل.....";
+"Email"="البريد";
+"Mail"="بريد";
+"Call"="إتصال";
+"Name_Product_Inlawfu"="إسم وصاحب المنتج مع السبب";
+"success_signed"="تم التسجيل بنجاح";
+"Send_Reset_Password"="تم إرسال رابط تعيين كلمة السر";
+"Twitter"="تويتر";
+"Password"="كلمة السر";
+"Sign_In"="تسجيل الدخول";
+"Sign"="تسجيل";
+"create_one"="ليس لديك حساب؟أنشئ حساب ";
+"have_account"="لديك حساب؟ سجل الدخول";
+"Reset_Passw"="تعيين كلمة السر";
+"Name"="الإسم";
+"Number_Phone"="رقم الهاتف";
+"Message-To_Share"="BassmaShop تطبيق للتسوق عبر الإنترنت يمكنك تحميله من متجر التطبيقات https://itunes.apple.com/us/app/bassmashop/id1453686669?mt=8";
+"Enter_Email"="أدخل البريد";
+"Message_Box"="رسالة";
+"Mail_Used"="البريد مستعمل بالفعل";
+"Share_app"="شارك التطبيق";
+"Paasw_Weak"="كلمة السر ضعيفة";
+"Err_Conn"="حدث خطأ من فضلك تحقق من الشبكة";
+"No_ExistMail"="نعتذر الحساب غير موجود أو مسجل";
+"Err_Mail"="البريد الإلكتروني خاطئ";
+"Passw_wrong"="كلمة السر خاطئة";
+"Uknoun_err"="خطأ غير معروف";
+"Ok"="حسنا";

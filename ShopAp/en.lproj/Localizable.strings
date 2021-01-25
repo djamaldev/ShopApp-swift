@@ -1,0 +1,80 @@
+/*
+ Localisable.strings
+ ShopAp
+ 
+ Created by mr Yacine on 4/10/19.
+ Copyright © 2019 mr Yacine. All rights reserved.
+ */
+"Home"="Home";
+"En_Lang"="English";
+"Ar_Lang"="Arabic";
+"Change_Lang"="هل تريد تغيير اللغة";
+"Restart_app"="من فضلك أغلق التطبيق ثم أعد تشغيله";
+"Yes"="نعم";
+"No"="ليس الان";
+"Call_user"="Contact the product owner";
+"Rate_Product"="Rate product";
+"Shoose_section"="Select Section";
+"Add_Image_product"="Add Image";
+"Upload_Product"="Upload Product";
+"Product_description"="Product description";
+"Price"="Price";
+"Name_Product"="Name Product";
+"Add_Product"="Add Product";
+"Section"="Sections";
+"Admin"="Administrators";
+"Language"="Language";
+"Admin_id"="Admin ID";
+"Submit"="Submit";
+"Subject"="Subject";
+"More"="More from Source";
+"Section_Name"="Section Name";
+"Add_New_Section"="Add New Section";
+"Search"="Search";
+"Cancel"="Cancel";
+"Sign_Out"="Sign Out";
+"Profile"="Profile";
+"Contact"="Contact Us";
+"stop"="unlawful advertising";
+"Rate"="Rate App";
+"All"="All";
+"Car"="Car";
+"Technic"="Technical";
+"Job"="Request a job";
+"All_service"="All Service";
+"real_estates"="Real Estates";
+"SinIn_First"="You Should Sign In";
+"Enter_all_field"="Please Enter All Requier fields";
+"No_Submit_Product"="Product Not Uploaded";
+"Add_Fav_Product"="Product Added to your Favorite";
+"My_Adver"="My Adversting";
+"My_Favorit"="My Favorite Products";
+"Loading"="Loading.....";
+"Email"="Email";
+"Mail"="Mail";
+"Call"="Call";
+"Name_Product_Inlawfu"="Name and owner of the product with reason";
+"success_signed"="successfully registered";
+"Send_Reset_Password"="The password reset link was sent to lose your email";
+"Twitter"="Twitter";
+"Password"="Password";
+"Sign_In"="Sign In";
+"Sign"="Register";
+"create_one"="don't have account ? create one";
+"have_account"="You have account ? sign in";
+"Reset_Passw"="Reset Password";
+"Name"="Name";
+"Number_Phone"="Number Phone";
+"Enter_Email"="Enter Your Email";
+"Message-To_Share"="BassmaShop is an Application for online shopping you can download it from: https://itunes.apple.com/us/app/bassmashop/id1453686669?mt=8";
+"Share_app"="Share App";
+"Message_Box"="Message Box Show";
+"Mail_Used"="This Mail is already used";
+"Paasw_Weak"="Password is weak";
+"Err_Conn"="An error occurred Please check the network";
+"No_ExistMail"="Sorry, the account does not exist";
+"Err_Mail"="Email is wrong";
+"Passw_wrong"="Wrong Password";
+"Uknoun_err"="Unknown error";
+"Ok"="Ok";
+

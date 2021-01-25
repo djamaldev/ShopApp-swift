@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951065359705-j4o33ksalvn9takmmfhs21oi2c10nq22.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951065359705-j4o33ksalvn9takmmfhs21oi2c10nq22</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC881mSGpfkiUEFy8KM0x_2dP0nsblMUZI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951065359705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BassmaShop.ios</string>
+	<key>PROJECT_ID</key>
+	<string>shopapp-665e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopapp-665e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951065359705:ios:2f0dc65a3ec72a57</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopapp-665e9.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-7106415214207784~5861415479</string>
+</dict>
+</plist>

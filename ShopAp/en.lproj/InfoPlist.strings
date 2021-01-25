@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  ShopAp
+
+  Created by mr Yacine on 4/23/19.
+  Copyright © 2019 mr Yacine. All rights reserved.
+*/
+"Privacy - Camera Usage Description" = "Allow the App to access your camera device ?";
+"Privacy - Photo Library Usage Description" = "Allow the App to access your photos album ?";

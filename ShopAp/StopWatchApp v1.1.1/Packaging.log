@@ -1,0 +1,576 @@
+2019-02-03 13:18:01 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f851eee9480; archive(resolved)='<IDEArchive: 0x7f851e425b50>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f851eee9480; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7f85230f2400; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8525d6bd90; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f851edabe50; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8523f858a0; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8523f0ba00; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8523ebb9f0; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f8523ebb750; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f851f633930; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7f851e8ab0e0; teamID='QZC9R363F7', teamName='Djamal  Yacine', teamType='Individual', username='djaminf1985@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7f851e7b7b90; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='(null)'>
+	<IDEDistributionContext: 0x7f8523e50a20; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7f8523274b10>', team='(null)'>
+	<IDEDistributionContext: 0x7f851ec6e680; archive = '<IDEArchive: 0x7f851e425b50>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7f851eee9480>
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionCopyItemStep
+2019-02-03 13:18:01 +0000  Running /usr/bin/ditto '-V' '/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app'
+2019-02-03 13:18:01 +0000  >>> Copying /Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app 
+2019-02-03 13:18:01 +0000  
+2019-02-03 13:18:01 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-02-03 13:18:01 +0000  22211 bytes for ./_CodeSignature/CodeResources
+2019-02-03 13:18:01 +0000  copying file ./AppIcon20x20@2x.png ... 
+2019-02-03 13:18:01 +0000  2020 bytes for ./AppIcon20x20@2x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon57x57.png ... 
+2019-02-03 13:18:01 +0000  3400 bytes for ./AppIcon57x57.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon20x20@3x.png ... 
+2019-02-03 13:18:01 +0000  3603 bytes for ./AppIcon20x20@3x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon29x29.png ... 
+2019-02-03 13:18:01 +0000  1324 bytes for ./AppIcon29x29.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-02-03 13:18:01 +0000  12633 bytes for ./AppIcon60x60@2x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon72x72@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  15820 bytes for ./AppIcon72x72@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon29x29@2x.png ... 
+2019-02-03 13:18:01 +0000  3441 bytes for ./AppIcon29x29@2x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon40x40@3x.png ... 
+2019-02-03 13:18:01 +0000  12633 bytes for ./AppIcon40x40@3x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon57x57@2x.png ... 
+2019-02-03 13:18:01 +0000  11628 bytes for ./AppIcon57x57@2x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon29x29~ipad.png ... 
+2019-02-03 13:18:01 +0000  1324 bytes for ./AppIcon29x29~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon40x40@2x.png ... 
+2019-02-03 13:18:01 +0000  6715 bytes for ./AppIcon40x40@2x.png
+copying file ./AppIcon29x29@3x.png ... 
+2019-02-03 13:18:01 +0000  7476 bytes for ./AppIcon29x29@3x.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon60x60@3x.png ... 
+2019-02-03 13:18:01 +0000  22885 bytes for ./AppIcon60x60@3x.png
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  1382 bytes for ./Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  1382 bytes for ./Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  4461 bytes for ./Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  4582 bytes for ./Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  3963 bytes for ./Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  3968 bytes for ./Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  2785 bytes for ./Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  3046 bytes for ./Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  5143 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  5270 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  2693 bytes for ./Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  2820 bytes for ./Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  1390 bytes for ./Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  1390 bytes for ./Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-02-03 13:18:01 +0000  405 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  4649 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  4768 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:01 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2019-02-03 13:18:01 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+2019-02-03 13:18:01 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-02-03 13:18:01 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-02-03 13:18:01 +0000  copying file ./Assets.car ... 
+2019-02-03 13:18:01 +0000  1293400 bytes for ./Assets.car
+2019-02-03 13:18:01 +0000  copying file ./BackroundCollectionViewCell.nib ... 
+2019-02-03 13:18:01 +0000  2581 bytes for ./BackroundCollectionViewCell.nib
+2019-02-03 13:18:01 +0000  copying file ./AppIcon40x40@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  6715 bytes for ./AppIcon40x40@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  17017 bytes for ./AppIcon76x76@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon72x72~ipad.png ... 
+2019-02-03 13:18:01 +0000  5730 bytes for ./AppIcon72x72~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon83.5x83.5@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  20061 bytes for ./AppIcon83.5x83.5@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon50x50~ipad.png ... 
+2019-02-03 13:18:01 +0000  2775 bytes for ./AppIcon50x50~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./StopWatchApp ... 
+2019-02-03 13:18:01 +0000  1458496 bytes for ./StopWatchApp
+2019-02-03 13:18:01 +0000  copying file ./SettingTableViewCell.nib ... 
+2019-02-03 13:18:01 +0000  4452 bytes for ./SettingTableViewCell.nib
+2019-02-03 13:18:01 +0000  copying file ./AppIcon29x29@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  3441 bytes for ./AppIcon29x29@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon50x50@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  9479 bytes for ./AppIcon50x50@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./AppIcon40x40~ipad.png ... 
+2019-02-03 13:18:01 +0000  2020 bytes for ./AppIcon40x40~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2019-02-03 13:18:01 +0000  464000 bytes for ./Frameworks/libswiftCoreImage.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2019-02-03 13:18:01 +0000  676720 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2019-02-03 13:18:01 +0000  98312976 bytes for ./Frameworks/libswiftCore.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2019-02-03 13:18:01 +0000  2342512 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2019-02-03 13:18:01 +0000  1987568 bytes for ./Frameworks/libswiftUIKit.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2019-02-03 13:18:01 +0000  722048 bytes for ./Frameworks/libswiftMetal.dylib
+copying file ./Frameworks/libswiftDispatch.dylib ... 
+2019-02-03 13:18:01 +0000  4229072 bytes for ./Frameworks/libswiftDispatch.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftos.dylib ... 
+2019-02-03 13:18:01 +0000  874304 bytes for ./Frameworks/libswiftos.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2019-02-03 13:18:01 +0000  398000 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2019-02-03 13:18:01 +0000  1091888 bytes for ./Frameworks/libswiftDarwin.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2019-02-03 13:18:01 +0000  468000 bytes for ./Frameworks/libswiftQuartzCore.dylib
+2019-02-03 13:18:01 +0000  copying file ./Frameworks/libswiftFoundation.dylib ... 
+2019-02-03 13:18:01 +0000  42507584 bytes for ./Frameworks/libswiftFoundation.dylib
+2019-02-03 13:18:01 +0000  copying file ./AppIcon20x20~ipad.png ... 
+2019-02-03 13:18:01 +0000  822 bytes for ./AppIcon20x20~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./embedded.mobileprovision ... 
+2019-02-03 13:18:01 +0000  7594 bytes for ./embedded.mobileprovision
+2019-02-03 13:18:01 +0000  copying file ./AppIcon20x20@2x~ipad.png ... 
+2019-02-03 13:18:01 +0000  2020 bytes for ./AppIcon20x20@2x~ipad.png
+2019-02-03 13:18:01 +0000  copying file ./Info.plist ... 
+2019-02-03 13:18:01 +0000  1575 bytes for ./Info.plist
+2019-02-03 13:18:01 +0000  copying file ./PkgInfo ... 
+2019-02-03 13:18:01 +0000  8 bytes for ./PkgInfo
+2019-02-03 13:18:01 +0000  copying file ./AppIcon76x76~ipad.png ... 
+2019-02-03 13:18:01 +0000  6224 bytes for ./AppIcon76x76~ipad.png
+2019-02-03 13:18:01 +0000  /usr/bin/ditto exited with 0
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851e433590 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7f85237d20d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCore.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8523f14730 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7f8523f38a70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8520608d10 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7f8523f63c70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851e417170 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7f8523c097c0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8523e83860 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7f8523f29650:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851f597560 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7f8523f190e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851f56d3b0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7f8523f363e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8523e900f0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7f8523f31750:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftMetal.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851f502f10 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7f851f1305e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8523e94940 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7f8523f2a8e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f851ee2b960 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7f8523dec530:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-02-03 13:18:01 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8523ea2dc0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7f8523f373d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftos.dylib'>'>
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionItemRemovalStep
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-02-03 13:18:01 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-02-03 13:18:01 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-02-03 13:18:01 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-02-03 13:18:02 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-02-03 13:18:02 +0000  Running /usr/bin/ditto '-V' '/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/BCSymbolMaps/CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/BCSymbolMaps/CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap'
+2019-02-03 13:18:02 +0000  >>> Copying /Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/BCSymbolMaps/CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap 
+2019-02-03 13:18:02 +0000  copying file ./CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap ... 
+2019-02-03 13:18:02 +0000  58256 bytes for ./CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap
+2019-02-03 13:18:02 +0000  /usr/bin/ditto exited with 0
+2019-02-03 13:18:02 +0000  Running /usr/bin/ditto '-V' '/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/BCSymbolMaps/C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/BCSymbolMaps/C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap'
+2019-02-03 13:18:02 +0000  >>> Copying /Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/BCSymbolMaps/C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap 
+2019-02-03 13:18:02 +0000  copying file ./C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap ... 
+2019-02-03 13:18:02 +0000  58174 bytes for ./C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap
+2019-02-03 13:18:02 +0000  /usr/bin/ditto exited with 0
+2019-02-03 13:18:02 +0000  Processing step: IDEDistributionSymbolsStep
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftCore.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftCoreFoundation.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftCoreGraphics.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftCoreImage.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftDarwin.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftDispatch.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftFoundation.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftMetal.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftObjectiveC.dylib
+2019-02-03 13:18:03 +0000  Excluding symbols for libswiftQuartzCore.dylib
+2019-02-03 13:18:04 +0000  Excluding symbols for libswiftUIKit.dylib
+2019-02-03 13:18:04 +0000  Excluding symbols for libswiftos.dylib
+2019-02-03 13:18:04 +0000  Excluding symbols for StopWatchApp.app
+2019-02-03 13:18:04 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2019-02-03 13:18:04 +0000  Running /usr/bin/ditto '-V' '/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/SwiftSupport' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/SwiftSupport'
+2019-02-03 13:18:04 +0000  >>> Copying /Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/SwiftSupport 
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftCoreImage.dylib ... 
+2019-02-03 13:18:04 +0000  466054 bytes for ./iphoneos/libswiftCoreImage.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftObjectiveC.dylib ... 
+2019-02-03 13:18:04 +0000  783684 bytes for ./iphoneos/libswiftObjectiveC.dylib
+copying file ./iphoneos/libswiftCore.dylib ... 
+2019-02-03 13:18:04 +0000  144134670 bytes for ./iphoneos/libswiftCore.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftCoreGraphics.dylib ... 
+2019-02-03 13:18:04 +0000  3102532 bytes for ./iphoneos/libswiftCoreGraphics.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftUIKit.dylib ... 
+2019-02-03 13:18:04 +0000  2648637 bytes for ./iphoneos/libswiftUIKit.dylib
+copying file ./iphoneos/libswiftMetal.dylib ... 
+2019-02-03 13:18:04 +0000  831596 bytes for ./iphoneos/libswiftMetal.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftDispatch.dylib ... 
+2019-02-03 13:18:04 +0000  5700515 bytes for ./iphoneos/libswiftDispatch.dylib
+copying file ./iphoneos/libswiftos.dylib ... 
+2019-02-03 13:18:04 +0000  1091870 bytes for ./iphoneos/libswiftos.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftCoreFoundation.dylib ... 
+2019-02-03 13:18:04 +0000  385026 bytes for ./iphoneos/libswiftCoreFoundation.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftDarwin.dylib ... 
+2019-02-03 13:18:04 +0000  1401345 bytes for ./iphoneos/libswiftDarwin.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftQuartzCore.dylib ... 
+2019-02-03 13:18:04 +0000  517767 bytes for ./iphoneos/libswiftQuartzCore.dylib
+2019-02-03 13:18:04 +0000  copying file ./iphoneos/libswiftFoundation.dylib ... 
+2019-02-03 13:18:04 +0000  60083610 bytes for ./iphoneos/libswiftFoundation.dylib
+2019-02-03 13:18:04 +0000  /usr/bin/ditto exited with 0
+2019-02-03 13:18:04 +0000  Processing step: IDEDistributionAppThinningStep
+2019-02-03 13:18:04 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-02-03 13:18:04 +0000  Processing step: IDEDistributionArchThinningStep
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'
+2019-02-03 13:18:04 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:04 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2019-02-03 13:18:04 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-02-03 13:18:05 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2019-02-03 13:18:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/StopWatchApp' '-verify_arch' 'arm64e'
+2019-02-03 13:18:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-02-03 13:18:05 +0000  Skipping architecture thinning for item "StopWatchApp" because arch "arm64e" wasn't found
+2019-02-03 13:18:05 +0000  Processing step: IDEDistributionODRStep
+2019-02-03 13:18:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851e433590 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7f85237d20d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCore.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8523f14730 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7f8523f38a70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8520608d10 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7f8523f63c70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851e417170 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7f8523c097c0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8523e83860 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7f8523f29650:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851f597560 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7f8523f190e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851f56d3b0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7f8523f363e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8523e900f0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7f8523f31750:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftMetal.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851f502f10 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7f851f1305e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8523e94940 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7f8523f2a8e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f851ee2b960 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7f8523dec530:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-02-03 13:18:05 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8523ea2dc0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7f8523f373d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftos.dylib'>'>
+2019-02-03 13:18:05 +0000  Running /usr/bin/xattr '-crs' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app'
+2019-02-03 13:18:05 +0000  /usr/bin/xattr exited with 0
+2019-02-03 13:18:05 +0000  Processing step: IDEDistributionCodesignStep
+2019-02-03 13:18:05 +0000  Entitlements for <IDEDistributionItem: 0x7f851e433590 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7f85237d20d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2019-02-03 13:18:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851e433590 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7f85237d20d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsR3nxGE
+2019-02-03 13:18:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsR3nxGE' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib'
+2019-02-03 13:18:06 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2019-02-03 13:18:07 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2019-02-03 13:18:07 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:07 +0000  Entitlements for <IDEDistributionItem: 0x7f8523f14730 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7f8523f38a70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2019-02-03 13:18:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8523f14730 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7f8523f38a70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements0CV3f5
+2019-02-03 13:18:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements0CV3f5' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-02-03 13:18:07 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2019-02-03 13:18:07 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2019-02-03 13:18:07 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:07 +0000  Entitlements for <IDEDistributionItem: 0x7f8520608d10 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7f8523f63c70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2019-02-03 13:18:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8520608d10 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7f8523f63c70:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementshKrPmH
+2019-02-03 13:18:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementshKrPmH' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-02-03 13:18:07 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2019-02-03 13:18:07 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2019-02-03 13:18:07 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:07 +0000  Entitlements for <IDEDistributionItem: 0x7f851e417170 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7f8523c097c0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2019-02-03 13:18:07 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851e417170 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7f8523c097c0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements2773l0
+2019-02-03 13:18:07 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements2773l0' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib'
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2019-02-03 13:18:08 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:08 +0000  Entitlements for <IDEDistributionItem: 0x7f8523e83860 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7f8523f29650:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2019-02-03 13:18:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8523e83860 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7f8523f29650:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsiiXqQW
+2019-02-03 13:18:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsiiXqQW' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib'
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2019-02-03 13:18:08 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:08 +0000  Entitlements for <IDEDistributionItem: 0x7f851f597560 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7f8523f190e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2019-02-03 13:18:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851f597560 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7f8523f190e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements8zHTnS
+2019-02-03 13:18:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements8zHTnS' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib'
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2019-02-03 13:18:08 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:08 +0000  Entitlements for <IDEDistributionItem: 0x7f851f56d3b0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7f8523f363e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2019-02-03 13:18:08 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851f56d3b0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7f8523f363e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsSLt0Tl
+2019-02-03 13:18:08 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsSLt0Tl' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib'
+2019-02-03 13:18:08 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2019-02-03 13:18:09 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:09 +0000  Entitlements for <IDEDistributionItem: 0x7f8523e900f0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7f8523f31750:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2019-02-03 13:18:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8523e900f0 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7f8523f31750:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsEvgWcA
+2019-02-03 13:18:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsEvgWcA' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib'
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2019-02-03 13:18:09 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:09 +0000  Entitlements for <IDEDistributionItem: 0x7f851f502f10 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7f851f1305e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2019-02-03 13:18:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851f502f10 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7f851f1305e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsbjeKL2
+2019-02-03 13:18:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsbjeKL2' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib'
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2019-02-03 13:18:09 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:09 +0000  Entitlements for <IDEDistributionItem: 0x7f8523e94940 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7f8523f2a8e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2019-02-03 13:18:09 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8523e94940 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7f8523f2a8e0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements6bJuNs
+2019-02-03 13:18:09 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlements6bJuNs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib'
+2019-02-03 13:18:09 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2019-02-03 13:18:10 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2019-02-03 13:18:10 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:10 +0000  Entitlements for <IDEDistributionItem: 0x7f851ee2b960 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7f8523dec530:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2019-02-03 13:18:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851ee2b960 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7f8523dec530:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementso8AjJm
+2019-02-03 13:18:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementso8AjJm' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib'
+2019-02-03 13:18:10 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2019-02-03 13:18:10 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2019-02-03 13:18:10 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:10 +0000  Entitlements for <IDEDistributionItem: 0x7f8523ea2dc0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7f8523f373d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2019-02-03 13:18:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8523ea2dc0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7f8523f373d0:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsfAJFIp
+2019-02-03 13:18:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsfAJFIp' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib'
+2019-02-03 13:18:10 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib: replacing existing signature
+2019-02-03 13:18:10 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2019-02-03 13:18:10 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:10 +0000  Entitlements for <IDEDistributionItem: 0x7f851f201340 'com.StopWatchApp.mr' '<DVTFilePath:0x7f851ebac160:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app'>'>: {
+    "application-identifier" = "QZC9R363F7.com.StopWatchApp.mr";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = QZC9R363F7;
+    "get-task-allow" = 0;
+}
+2019-02-03 13:18:10 +0000  Writing entitlements for <IDEDistributionItem: 0x7f851f201340 'com.StopWatchApp.mr' '<DVTFilePath:0x7f851ebac160:'/Users/mryacine/Library/Developer/Xcode/Archives/2019-02-03/StopWatchApp 2-3-19, 2.16 PM.xcarchive/Products/Applications/StopWatchApp.app'>'> to: /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsdTJR6O
+2019-02-03 13:18:10 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '9C56BBF00C29F51124ED7109485ED9C3280EE2AC' '--entitlements' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/entitlementsdTJR6O' '--preserve-metadata=identifier,flags,runtime' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app'
+2019-02-03 13:18:11 +0000  /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root/Payload/StopWatchApp.app: signed app bundle with Mach-O universal (armv7 arm64) [com.StopWatchApp.mr]
+2019-02-03 13:18:11 +0000  /usr/bin/codesign exited with 0
+2019-02-03 13:18:11 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-02-03 13:18:11 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-02-03 13:18:11 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root' '/var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Packages/StopWatchApp.ipa'
+2019-02-03 13:18:11 +0000  >>> Copying /var/folders/qc/wdwdczm93jbgzz6wqb1j9p4r0000gn/T/XcodeDistPipeline.laF/Root 
+2019-02-03 13:18:11 +0000  copying file ./BCSymbolMaps/C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap ... 
+2019-02-03 13:18:11 +0000  58174 bytes for ./BCSymbolMaps/C15A3BA8-A2EF-34B4-BC18-EBDAAF264BFC.bcsymbolmap
+2019-02-03 13:18:11 +0000  copying file ./BCSymbolMaps/CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap ... 
+2019-02-03 13:18:11 +0000  58256 bytes for ./BCSymbolMaps/CB381209-DB4C-3A54-838F-716141B9CABD.bcsymbolmap
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/_CodeSignature/CodeResources ... 
+2019-02-03 13:18:11 +0000  22211 bytes for ./Payload/StopWatchApp.app/_CodeSignature/CodeResources
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon20x20@2x.png ... 
+2019-02-03 13:18:11 +0000  2020 bytes for ./Payload/StopWatchApp.app/AppIcon20x20@2x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon57x57.png ... 
+2019-02-03 13:18:11 +0000  3400 bytes for ./Payload/StopWatchApp.app/AppIcon57x57.png
+copying file ./Payload/StopWatchApp.app/AppIcon20x20@3x.png ... 
+2019-02-03 13:18:11 +0000  3603 bytes for ./Payload/StopWatchApp.app/AppIcon20x20@3x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon29x29.png ... 
+2019-02-03 13:18:11 +0000  1324 bytes for ./Payload/StopWatchApp.app/AppIcon29x29.png
+copying file ./Payload/StopWatchApp.app/AppIcon60x60@2x.png ... 
+2019-02-03 13:18:11 +0000  12633 bytes for ./Payload/StopWatchApp.app/AppIcon60x60@2x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon72x72@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  15820 bytes for ./Payload/StopWatchApp.app/AppIcon72x72@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon29x29@2x.png ... 
+2019-02-03 13:18:11 +0000  3441 bytes for ./Payload/StopWatchApp.app/AppIcon29x29@2x.png
+copying file ./Payload/StopWatchApp.app/AppIcon40x40@3x.png ... 
+2019-02-03 13:18:11 +0000  12633 bytes for ./Payload/StopWatchApp.app/AppIcon40x40@3x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon57x57@2x.png ... 
+2019-02-03 13:18:11 +0000  11628 bytes for ./Payload/StopWatchApp.app/AppIcon57x57@2x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon29x29~ipad.png ... 
+2019-02-03 13:18:11 +0000  1324 bytes for ./Payload/StopWatchApp.app/AppIcon29x29~ipad.png
+copying file ./Payload/StopWatchApp.app/AppIcon40x40@2x.png ... 
+2019-02-03 13:18:11 +0000  6715 bytes for ./Payload/StopWatchApp.app/AppIcon40x40@2x.png
+copying file ./Payload/StopWatchApp.app/AppIcon29x29@3x.png ... 
+2019-02-03 13:18:11 +0000  7476 bytes for ./Payload/StopWatchApp.app/AppIcon29x29@3x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon60x60@3x.png ... 
+2019-02-03 13:18:11 +0000  22885 bytes for ./Payload/StopWatchApp.app/AppIcon60x60@3x.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  1382 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  1382 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-J8D-z3-nGD.nib/runtime.nib
+copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  4461 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  4582 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/14W-GA-BFj-view-3Cu-ET-AVI.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  3963 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  3968 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UITabBarController-gup-So-PdD.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  2785 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/objects-11.0+.nib
+copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  3046 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/MOk-fx-g4l-view-wAY-Vj-vrJ.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  5143 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  5270 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  2693 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  2820 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/J8D-z3-nGD-view-6Ca-zm-V3V.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  1390 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  1390 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/UIViewController-14W-GA-BFj.nib/runtime.nib
+copying file ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-02-03 13:18:11 +0000  405 bytes for ./Payload/StopWatchApp.app/Base.lproj/Main.storyboardc/Info.plist
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  4649 bytes for ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  4768 bytes for ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib ... 
+2019-02-03 13:18:11 +0000  832 bytes for ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-11.0+.nib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib ... 
+2019-02-03 13:18:11 +0000  832 bytes for ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib
+copying file ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-02-03 13:18:11 +0000  258 bytes for ./Payload/StopWatchApp.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/StopWatchApp.app/Assets.car ... 
+2019-02-03 13:18:11 +0000  1293400 bytes for ./Payload/StopWatchApp.app/Assets.car
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/BackroundCollectionViewCell.nib ... 
+2019-02-03 13:18:11 +0000  2581 bytes for ./Payload/StopWatchApp.app/BackroundCollectionViewCell.nib
+copying file ./Payload/StopWatchApp.app/AppIcon40x40@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  6715 bytes for ./Payload/StopWatchApp.app/AppIcon40x40@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon76x76@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  17017 bytes for ./Payload/StopWatchApp.app/AppIcon76x76@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon72x72~ipad.png ... 
+2019-02-03 13:18:11 +0000  5730 bytes for ./Payload/StopWatchApp.app/AppIcon72x72~ipad.png
+copying file ./Payload/StopWatchApp.app/AppIcon83.5x83.5@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  20061 bytes for ./Payload/StopWatchApp.app/AppIcon83.5x83.5@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon50x50~ipad.png ... 
+2019-02-03 13:18:11 +0000  2775 bytes for ./Payload/StopWatchApp.app/AppIcon50x50~ipad.png
+copying file ./Payload/StopWatchApp.app/StopWatchApp ... 
+2019-02-03 13:18:11 +0000  1232096 bytes for ./Payload/StopWatchApp.app/StopWatchApp
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/SettingTableViewCell.nib ... 
+2019-02-03 13:18:11 +0000  4452 bytes for ./Payload/StopWatchApp.app/SettingTableViewCell.nib
+copying file ./Payload/StopWatchApp.app/AppIcon29x29@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  3441 bytes for ./Payload/StopWatchApp.app/AppIcon29x29@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon50x50@2x~ipad.png ... 
+2019-02-03 13:18:11 +0000  9479 bytes for ./Payload/StopWatchApp.app/AppIcon50x50@2x~ipad.png
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/AppIcon40x40~ipad.png ... 
+2019-02-03 13:18:11 +0000  2020 bytes for ./Payload/StopWatchApp.app/AppIcon40x40~ipad.png
+copying file ./Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib ... 
+2019-02-03 13:18:11 +0000  349776 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftCoreImage.dylib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib ... 
+2019-02-03 13:18:11 +0000  497056 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftObjectiveC.dylib
+2019-02-03 13:18:11 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib ... 
+2019-02-03 13:18:16 +0000  69853584 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2019-02-03 13:18:16 +0000  1737712 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftCoreGraphics.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib ... 
+2019-02-03 13:18:16 +0000  1464928 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftUIKit.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib ... 
+2019-02-03 13:18:16 +0000  542496 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftMetal.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib ... 
+2019-02-03 13:18:16 +0000  3099552 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftDispatch.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftos.dylib ... 
+2019-02-03 13:18:16 +0000  645456 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftos.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2019-02-03 13:18:16 +0000  300112 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftCoreFoundation.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib ... 
+2019-02-03 13:18:16 +0000  814448 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftDarwin.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib ... 
+2019-02-03 13:18:16 +0000  353824 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftQuartzCore.dylib
+2019-02-03 13:18:16 +0000  copying file ./Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib ... 
+2019-02-03 13:18:18 +0000  31352384 bytes for ./Payload/StopWatchApp.app/Frameworks/libswiftFoundation.dylib
+2019-02-03 13:18:18 +0000  copying file ./Payload/StopWatchApp.app/AppIcon20x20~ipad.png ... 
+2019-02-03 13:18:18 +0000  822 bytes for ./Payload/StopWatchApp.app/AppIcon20x20~ipad.png
+copying file ./Payload/StopWatchApp.app/embedded.mobileprovision ... 
+2019-02-03 13:18:18 +0000  7497 bytes for ./Payload/StopWatchApp.app/embedded.mobileprovision
+2019-02-03 13:18:18 +0000  copying file ./Payload/StopWatchApp.app/AppIcon20x20@2x~ipad.png ... 
+2019-02-03 13:18:18 +0000  2020 bytes for ./Payload/StopWatchApp.app/AppIcon20x20@2x~ipad.png
+copying file ./Payload/StopWatchApp.app/Info.plist ... 
+2019-02-03 13:18:18 +0000  1575 bytes for ./Payload/StopWatchApp.app/Info.plist
+copying file ./Payload/StopWatchApp.app/PkgInfo ... 
+8 bytes for ./Payload/StopWatchApp.app/PkgInfo
+copying file ./Payload/StopWatchApp.app/AppIcon76x76~ipad.png ... 
+2019-02-03 13:18:18 +0000  6224 bytes for ./Payload/StopWatchApp.app/AppIcon76x76~ipad.png
+2019-02-03 13:18:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreImage.dylib ... 
+2019-02-03 13:18:18 +0000  405712 bytes for ./SwiftSupport/iphoneos/libswiftCoreImage.dylib
+2019-02-03 13:18:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib ... 
+2019-02-03 13:18:18 +0000  618432 bytes for ./SwiftSupport/iphoneos/libswiftObjectiveC.dylib
+2019-02-03 13:18:18 +0000  copying file ./SwiftSupport/iphoneos/libswiftCore.dylib ... 
+2019-02-03 13:18:25 +0000  98254688 bytes for ./SwiftSupport/iphoneos/libswiftCore.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib ... 
+2019-02-03 13:18:25 +0000  2316992 bytes for ./SwiftSupport/iphoneos/libswiftCoreGraphics.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftUIKit.dylib ... 
+2019-02-03 13:18:25 +0000  1929280 bytes for ./SwiftSupport/iphoneos/libswiftUIKit.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftMetal.dylib ... 
+2019-02-03 13:18:25 +0000  663760 bytes for ./SwiftSupport/iphoneos/libswiftMetal.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftDispatch.dylib ... 
+2019-02-03 13:18:25 +0000  4203552 bytes for ./SwiftSupport/iphoneos/libswiftDispatch.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftos.dylib ... 
+2019-02-03 13:18:25 +0000  816016 bytes for ./SwiftSupport/iphoneos/libswiftos.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib ... 
+2019-02-03 13:18:25 +0000  339712 bytes for ./SwiftSupport/iphoneos/libswiftCoreFoundation.dylib
+2019-02-03 13:18:25 +0000  copying file ./SwiftSupport/iphoneos/libswiftDarwin.dylib ... 
+2019-02-03 13:18:26 +0000  1082752 bytes for ./SwiftSupport/iphoneos/libswiftDarwin.dylib
+2019-02-03 13:18:26 +0000  copying file ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib ... 
+2019-02-03 13:18:26 +0000  426096 bytes for ./SwiftSupport/iphoneos/libswiftQuartzCore.dylib
+2019-02-03 13:18:26 +0000  copying file ./SwiftSupport/iphoneos/libswiftFoundation.dylib ... 
+2019-02-03 13:18:28 +0000  42465680 bytes for ./SwiftSupport/iphoneos/libswiftFoundation.dylib
+2019-02-03 13:18:28 +0000  /usr/bin/ditto exited with 0
+2019-02-03 13:18:28 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-02-03 13:18:28 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-02-03 13:18:28 +0000  Processing step: IDEDistributionCreateManifestStep
+2019-02-03 13:18:28 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

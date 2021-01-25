@@ -1,0 +1,57 @@
+/* 
+  Localisable.strings
+  ShopAp
+
+  Created by mr Yacine on 4/10/19.
+  Copyright © 2019 mr Yacine. All rights reserved.
+*/
+"Home"="Home";
+"Call_user"="Contact the product owner";
+"Rate_Product"="Rate product";
+"Shoose_section"="Select Section";
+"Add_Image_product"="Add Image";
+"Upload_Product"="Upload Product";
+"Product_description"="Product description";
+"Shoose_section"="Shoose Section";
+"Price"="Price";
+"Name_Product"="Name Product";
+"Add_Product"="Add Product";
+"Section"="Sections";
+"Admin"="Administrators";
+"Language"="Language";
+"Admin_id"="Admin ID";
+"Submit"="Submit";
+"Subject"="Subject";
+"Section_Name"="Section Name";
+"Add_New_Section"="Add New Section";
+"Search"="Search";
+"Cancel"="Cancel";
+"Sign_Out"="Sign Out";
+"Profile"="Profile";
+"Contact"="Contact";
+"stop"="stop";
+"Rate"="Rate App";
+"All"="All";
+"SinIn_First"="You Should Sign In";
+"Enter_all_field"="Please Enter All Requier fields";
+"No_Submit_Product"="Product Not Uploaded";
+"Add_Fav_Product"="Product Added to your Favorite";
+"My_Adver"="My Adversting";
+"My_Favorit"="My Favorite Products";
+"Loading"="Loading.....";
+"Email"="Email";
+"Mail"="Mail";
+"Call"="Call";
+"Name_Product_Inlawfu"="Name and owner of the product with reason";
+"success_signed"="successfully registered";
+"Send_Reset_Password"="The password reset link was sent to lose your email";
+"Twitter"="Twitter";
+"Password"="Password";
+"Sign_In"="Sign In";
+"Sign"="Register";
+"Reset_Passw"="Reset Password";
+"Name"="Name";
+"Number_Phone"="Number Phone";
+"Enter_Email"="Enter Email";
+"Message_Box"="Message Box Show";
+"Ok"="Ok";

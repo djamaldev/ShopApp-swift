@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import Firebase
+//adab8292aba5484a936665335a677cad
+let baseUrl = "https://newsapi.org/v2/everything?q=apple&from=2019-05-07&to=2019-05-07&sortBy=popularity&apiKey=0c3c4b1199b54db5bb4445717da633c2" //"https://newsapi.org/v2/top-headlines?country=gb&category=sports&apiKey=0c3c4b1199b54db5bb4445717da633c2" 
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,6 +19,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        FirebaseApp.configure()
+        UIView.appearance().semanticContentAttribute = .forceLeftToRight
+        GADMobileAds.sharedInstance().start(completionHandler: nil)
+        UIApplication.shared.statusBarStyle = .lightContent
+        UITabBar.appearance().tintColor = UIColor(red: 132.0/255.0, green: 136.0/255.0, blue: 238.0/255.0, alpha: 1.0)
+        //LocalizationSystem.sharedInstance.setLanguage(languageCode: "en")
+        sleep(2)
         return true
     }
 
@@ -39,6 +49,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+    }
+    
+    func setInitialViewController(initialView: UIViewController)  {
+        window = UIWindow(frame: UIScreen.main.bounds)
+        let homeViewController = initialView
+        let nav = UINavigationController(rootViewController: homeViewController)
+        window!.rootViewController = nav
+        window!.makeKeyAndVisible()
     }
 
 

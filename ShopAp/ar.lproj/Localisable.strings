@@ -1,0 +1,56 @@
+/* 
+  Localisable.strings
+  ShopAp
+
+  Created by mr Yacine on 4/10/19.
+  Copyright © 2019 mr Yacine. All rights reserved.
+*/
+"Home"="الرئيسية";
+"Call_user"="إتصل بصاحب المنتوج";
+"Rate_Product"="تقييم التطبيق";
+"Shoose_section"="إختر قسم";
+"Add_Image_product"="إضافة صور";
+"Upload_Product"="إرسال المنتوج";
+"Product_description"="وصف المنتوج";
+"Price"="السعر";
+"Name_Product"="إسم المنتوج";
+"Add_Product"="إضافة منتوج";
+"Section"="الأقسام";
+"Admin"="المدراء";
+"Language"="اللغة";
+"Admin_id"="رقم ID";
+"Submit"="إرسال";
+"Subject"="الموضوع";
+"Section_Name"="إسم القسم";
+"Add_New_Section"="إضافة قسم";
+"Search"="البحث";
+"Cancel"="إلغاء";
+"Sign_Out"="تسجيل الخروج";
+"Profile"="بروفايل";
+"Contact"="إتصل بنا";
+"stop"="إعلان مخالف";
+"Rate"="تقييم التطبيق";
+"All"="الكل";
+"SinIn_First"="سجل الدخول أولا";
+"Enter_all_field"="يرجى ملاْ جميع الخانات";
+"No_Submit_Product"="لم يتم إرسال المنتج";
+"Add_Fav_Product"="تم إضافة المنتج لمفضلاتك";
+"My_Adver"="إعلاناتي";
+"My_Favorit"="مفضلاتي";
+"Loading"="جاري التحميل.....";
+"Email"="البريد";
+"Mail"="بريد";
+"Call"="إتصال";
+"Name_Product_Inlawfu"="إسم وصاحب المنتج مع السبب";
+"success_signed"="تم التسجيل بنجاح";
+"Send_Reset_Password"="تم إرسال رابط تعيين كلمة السر";
+"Twitter"="تويتر";
+"Password"="كلمة السر";
+"Sign_In"="تسجيل الدخول";
+"Sign"="تسجيل";
+"Reset_Passw"="تعيين كلمة السر";
+"Name"="الإسم";
+"Number_Phone"="رقم الهاتف";
+"Enter_Email"="أدخل البريد";
+"Message_Box"="رسالة";
+"Ok"="حسنا";
